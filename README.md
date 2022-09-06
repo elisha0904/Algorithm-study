@@ -1,6 +1,6 @@
-2022F Algorithm Study
+#** 2022F Algorithm Study **
 
-Solved.ac
+Solved.ac <br><br>
 
-202207 ~ 202209 : Bronze
+202207 ~ 202209 : Bronze <br>
 202209 ~ : Silver I
