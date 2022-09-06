@@ -1,4 +1,4 @@
-#** 2022F Algorithm Study **
+** 2022F Algorithm Study **
 
 Solved.ac <br><br>
 
